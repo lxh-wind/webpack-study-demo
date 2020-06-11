@@ -1,0 +1,17 @@
+/node_modules
+/.history
+*.idea
+/.idea
+*.vscode
+*.log.*
+*.log
+*.xml
+*.iml
+/.project
+*.classpath
+/overlays
+/target
+.DS_Store
+.svn/
+yarn.lock
+tsconfig.json
