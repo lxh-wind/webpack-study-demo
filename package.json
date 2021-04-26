@@ -1,0 +1,20 @@
+{
+  "name": "webpack-study-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxh-wind/webpack-study-demo.git"
+  },
+  "author": "lxh_wind",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
